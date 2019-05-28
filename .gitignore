@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv python configuration file
+.python-version
+
+# Virtual environments
+venv*
+
+# Pytest and coverage
+.cache
+.coverage
+
+# Visual code
+.vscode/
+
+# Pycharm
+.idea/
+.idea/*
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+ghostdriver.log
